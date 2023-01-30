@@ -187,6 +187,12 @@ p {
 Navbar
 ===============
 */
+.nav-header h3 {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  /* background: red; */
+}
 
 .nav-links {
   display: none;
